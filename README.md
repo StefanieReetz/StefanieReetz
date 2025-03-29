@@ -54,6 +54,6 @@
     <img src="https://img.shields.io/badge/-stefaniebeatrizreetz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jenniferheloisareetz@gmail.com" />
   </a>
     <a href="https://www.linkedin.com/in/stefanie-reetz-23052a359/">
-    <img src="https://img.shields.io/badge/-Stefanie-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-reetz-23052a359/" />
+    <img src="https://img.shields.io/badge/-Stefanie Reetz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanie-reetz-23052a359/" />
   </a>
 </p>
