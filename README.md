@@ -20,16 +20,12 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-71BE36?style=flat&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Oracle-E21E1E?style=flat&logo=oracle&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-2DA543?style=flat&logo=junit5&logoColor=white)
 
 ### 📋 Others
 
 ![Git](https://img.shields.io/badge/-Git-eb4e15?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2E9DFF?style=flat&logo=docker&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000FE?style=flat&logo=insomnia&logoColor=white)
-![Flyway](https://img.shields.io/badge/-Flyway-CB0505?style=flat&logo=flyway&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-5100FF?style=flat&logo=figma&logoColor=white)
 
 ### 📜 Courses
 ![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)
