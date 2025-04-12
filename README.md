@@ -11,16 +11,12 @@
 
 ![Typescript](https://img.shields.io/badge/-Typescript-2A8DDB?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-E21E1E?style=flat&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-FE6400?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
-
 ### 🗄 Back-end
 
 ![Java](https://img.shields.io/badge/-Java-FE6400?style=flat&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-71BE36?style=flat&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![JUnit5](https://img.shields.io/badge/-JUnit5-2DA543?style=flat&logo=junit5&logoColor=white)
 
 ### 📋 Others
 
