@@ -7,10 +7,6 @@
 
 ## 🚀 Technologies
 
-### 🖥 Front-end
-
-![Typescript](https://img.shields.io/badge/-Typescript-2A8DDB?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-E21E1E?style=flat&logo=angular&logoColor=white)
 ### 🗄 Back-end
 
 ![Java](https://img.shields.io/badge/-Java-FE6400?style=flat&logo=openjdk&logoColor=white)
