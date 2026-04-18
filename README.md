@@ -26,13 +26,16 @@
 ## 📊 My stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StefanieReetz&count_private=true&show_icons=true&theme=tokyonight&custom_title=Github%20Status" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StefanieReetz&count_private=true&show_icons=true&hide_border=true&card_width=320&bg_color=292D3E&title_color=C792EA&text_color=BFC7D5&icon_color=89DDFF&border_color=00000000&theme=transparent" />
   </a>
+
+  <br>
+  
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieReetz&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieReetz&layout=compact&langs_count=8&hide_border=true&card_width=320&bg_color=292D3E&title_color=C792EA&text_color=BFC7D5&icon_color=89DDFF&border_color=00000000&theme=transparent" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StefanieReetz&theme=tokyonight" />
+    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StefanieReetz&theme=material_palenight" />
   </a>
 </p>
 
