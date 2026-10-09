@@ -2,8 +2,8 @@
 ## Hello World! I'm Stefanie
 
 ### ✨ About me ✨
-- 🌱 I’m an enthusiastic and aspiring back-end developer.
-- 💡 I have experience with various technologies, primarily in back-end development.
+-  I’m an enthusiastic and aspiring back-end developer.
+-  I have experience with various technologies, primarily in back-end development.
 
 ## 🚀 Technologies
 
